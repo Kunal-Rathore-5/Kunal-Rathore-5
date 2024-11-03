@@ -1,5 +1,5 @@
 # 💫 About Me:
-Coding enthusiast 🧑‍💻<br>Learning Data Structures and Algorithms 📚 in C++ 🌱<br><br><br><br><br><br><br><br><br>
+Coding enthusiast 🧑‍💻<br>Learning Data Structures and Algorithms 📚 in C++ 🌱<br><br><br><br>
 
 
 ## 🌐 Socials:
