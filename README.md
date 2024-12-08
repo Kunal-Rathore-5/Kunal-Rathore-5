@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Kunal Rathore, a passionate developer with a keen interest in [web development, data science, machine learning and problem solving. Welcome to my GitHub profile!About Me<br>🌱 I’m currently learning HTML, CSS, JAVA and DSA with C++.<br>
+👋 Hi there! I'm Kunal Rathore, Welcome to my GitHub profile!About Me<br>🌱 I’m currently learning HTML, CSS, JAVA and DSA with C++.<br>
 
 
 ## 🌐 Socials:
