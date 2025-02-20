@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! I'm Kunal Rathore. Welcome to my GitHub profile!<br><br>About Me<br>🌱 I’m currently learning HTML, CSS, Java, and DSA (Data Structures and Algorithms) with C++.
+Hi there! I'm Kunal Rathore. Welcome to my GitHub profile!<br><br>About Me<br>🌱 I’m currently working on or with C++ .
+
 
 
 ## 🌐 Socials:
