@@ -15,9 +15,7 @@
 <p align="left">I am a passionate developer with an interest in backend development, cloud computing, and full-stack web applications. I love exploring new technologies and creating scalable applications. </p>
 
 - ✨ Lifelong learner and problem solver.
-- 🌱 I’m currently diving deep into AWS, DSA, and system design.
-- 🚀 I contribute to Open Source and love working on cool projects.
-- 💻 Visit my [Portfolio](YOUR_PORTFOLIO_LINK_HERE) to learn more about me.
+- 🌱 I’m currently diving deep in DSA. 
 
 <!--Profile Count Badge-->
 <p align="left">
