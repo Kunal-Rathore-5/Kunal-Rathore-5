@@ -5,10 +5,10 @@
 ## 🚀 About Me
 
 ```yaml
-name: Kunal Rathore
-code: [C, C++, HTML, CSS, Git]
-learning: [DSA in C++, AWS Cloud, Blockchain]
-hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
+Name: Kunal Rathore
+Code: [C, C++, HTML, CSS, Git]
+Learning: [DSA in C++]
+Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 ```
 
 <p align="center">
@@ -34,12 +34,9 @@ hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kunal--Rathore-181717?style=for-the-badge&logo=github)](https://github.com/Kunal-Rathore)
+[![Instagram](https://img.shields.io/badge/GitHub-Kunal--Rathore-181717?style=for-the-badge&logo=github)](https://github.com/Kunal-Rathore)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Rathore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-rathore/)
 
-## 🎵 Vibing to
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id)](https://open.spotify.com/user/your_spotify_id)
 
 ---
 ⭐️ From [Kunal-Rathore](https://github.com/Kunal-Rathore)
