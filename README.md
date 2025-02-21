@@ -26,6 +26,9 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 ### 📈 Contribution Graph
 ![Kunal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Rathore&theme=tokyo-night)
 
+### 📊 Green Box GitHub Activity Tracker
+![GitHub Green Box Tracker](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Rathore&theme=github_dark)
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -34,9 +37,8 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 
 ## 📫 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-Kunal--Rathore-181717?style=for-the-badge&logo=ginstagram)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Kunal--Rathore-181717?style=for-the-badge&logo=instagram)](https://instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Rathore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-rathore/)
-
 
 ---
 ⭐️ From [Kunal-Rathore](https://github.com/Kunal-Rathore)
