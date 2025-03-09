@@ -38,7 +38,7 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 ## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-Kunal--Rathore-181717?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Rathore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-rathore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Rathore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 
 ---
 ⭐️ From [Kunal-Rathore](https://github.com/Kunal-Rathore)
