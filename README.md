@@ -34,6 +34,7 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,git,github" />
 </p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunal-Rathore&column=6&margin-w=5&margin-h=5)
 
 ## 📫 Connect with Me
 
