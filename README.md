@@ -32,9 +32,11 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 ## 🏆 GitHub Trophies
 
 <!-- Your trophies card code -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunal-Rathore&column=6&margin-w=5&margin-h=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunal-Rathore&column=6&margin-w=5&margin-h=5&exclude=followers,stars)
+
 
 ---
+
 
 ### 📊 Green Box GitHub Activity Tracker
 ![GitHub Green Box Tracker](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Rathore&theme=github_dark)
