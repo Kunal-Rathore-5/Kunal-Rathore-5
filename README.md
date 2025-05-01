@@ -55,4 +55,4 @@ Hobbies: [Watching Tech Videos, Exploring UI/UX Websites, Gaming]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Rathore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 
 ---
-⭐️ From [Kunal-Rathore](https://github.com/Kunal-Rathore)
+⭐️ From- [Kunal-Rathore](https://github.com/Kunal-Rathore)
