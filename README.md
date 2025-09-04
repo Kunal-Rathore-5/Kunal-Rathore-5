@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=31&duration=3000&pause=500&color=00D9Ht&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Kunal+Rathore!+%F0%9F%91%8B;Welcome+to+my+Digital+Universe!;Let%27s+Build+Something+Amazing!)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=31&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Kunal+Rathore!+%F0%9F%91%8B;Welcome+to+my+Digital+Universe!;Let%27s+Build+Something+Amazing!)</div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20%7C%20Create%20%7C%20Innovate&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32"/> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <br/>
 
@@ -10,18 +10,10 @@
 🚀 Profile:
   name: "Kunal Rathore"
   location: "India 🇮🇳"
-  current_focus: "DSA & Competitive Programming"
   languages: ["C", "C++", "HTML", "CSS"]
   tools: ["Git", "GitHub", "VS Code"]
   interests: ["Tech Innovation", "UI/UX Design", "Gaming"]
   motto: "Code with passion, create with purpose!"
-  
-🎯 Current Goals:
-  - Master Data Structures & Algorithms
-  - Build innovative web applications  
-  - Contribute to open source projects
-  - Expand tech stack with modern frameworks
-
 
 ```
 
@@ -95,8 +87,7 @@
 ### **⭐ Show some love by starring my repositories! ⭐**
 
 
-
 _""_ - **Kunal Rathore**
  
-</div> <b>Keep coding, keep growing!!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
+--- </div> <b>Keep coding, keep growing!!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
 
