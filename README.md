@@ -55,13 +55,6 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kunal-Rathore&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/> </div>
 
-### **🎮 GitHub Game Stats**
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kunal-Rathore&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&layout=compact"/> </div> <br/>
-
-## <img src="https://github.com/0x-Apollyon/0x-Apollyon/blob/main/gifs/hacker.gif" width="35"> **Live Coding Metrics**
-
-<div align="center">
 
 ### **⚡ Current Development Streak**
 
@@ -106,4 +99,4 @@
 _""_ - **Kunal Rathore**
  
 </div> <b>Keep coding, keep growing!!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
----
+
