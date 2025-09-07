@@ -1,6 +1,6 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=31&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Kunal+Rathore!+%F0%9F%91%8B;Welcome+to+my+Digital+Universe!;Let%27s+Build+Something+Amazing!)</div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20%7C%20Create%20%7C%20Innovate&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32"/> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <br/>
+<div align="center">  <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
