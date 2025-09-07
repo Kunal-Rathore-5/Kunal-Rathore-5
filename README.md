@@ -1,6 +1,5 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=31&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Kunal+Rathore!+%F0%9F%91%8B;Welcome+to+my+Digital+Universe!;Let%27s+Build+Something+Amazing!)</div>
 
-<div align="center">  <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
@@ -70,9 +69,9 @@
 
 ```
 🔥 Currently working on: Advanced DSA problems
-🌱 Learning: System Design & Competitive Programming  
+🌱 Learning: DSA and diving in MERN  
 💡 Ask me about: C++, Data Structures, Problem Solving
-⚡ Fun fact: I debug with printf statements and I'm not ashamed!
+⚡ Fun fact: I debug with cout statements and I'm not ashamed!
 🎮 Gaming: Strategy games and puzzle solvers
 
 
@@ -81,12 +80,10 @@
 </div> <br/>
 
 ----------
+### **⭐ Show some love by starring my repositories! ⭐**
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/> </div> <div align="center">
 
-### **⭐ Show some love by starring my repositories! ⭐**
+<div align="center">  <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <br/>
 
 
-_""_ - **Kunal Rathore**
- 
---- </div> <b>Keep coding, keep growing!!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
