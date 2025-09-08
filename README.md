@@ -73,8 +73,6 @@
 💡 Ask me about: C++, Data Structures, Problem Solving
 ⚡ Fun fact: I debug with cout statements and I'm not ashamed!
 🎮 Gaming: Strategy games and puzzle solvers
-
-
 ```
 
 </div> <br/>
