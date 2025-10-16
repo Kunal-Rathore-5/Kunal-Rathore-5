@@ -9,11 +9,6 @@
 🚀 Profile:
   name: "Kunal Rathore"
   location: "India 🇮🇳"
-  languages: ["C", "C++", "HTML", "CSS"]
-  tools: ["Git", "GitHub", "VS Code"]
-  interests: ["Tech Innovation", "UI/UX Design", "Gaming"]
-  motto: "Code with passion, create with purpose!"
-
 ```
 
 <br/>
