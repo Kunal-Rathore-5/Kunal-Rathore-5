@@ -8,7 +8,8 @@
 ```yaml
 🚀 Profile:
   name: "Kunal Rathore"
-  location: "India 🇮🇳"
+  location: "Indore, India 🇮🇳"
+  education: "Pre-final year BTech student at AITR Indore"  
 ```
 
 <br/>
