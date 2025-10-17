@@ -16,10 +16,10 @@
 ```
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 <div align="center">
-Languages & Technologies
+Languages & Technologies <br>
 <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,vscode&theme=dark" />
 
-Learning & Exploring
+Learning & Exploring <br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
 
 </div> <div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&line1=cpp%2CC%2B%2B%2C333%3Bhtml%2CHTML%2Ce34c26%3Bcss%2CCSS%2C1572b6%3Bgit%2CGit%2Cf14e32%3B&line2=github%2CGitHub%2C333%3Bvscode%2CVS+Code%2C007acc%3Blinux%2CLinux%2Cfcc624%3B" /> </div>
