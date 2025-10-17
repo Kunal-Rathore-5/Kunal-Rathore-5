@@ -16,12 +16,12 @@
 ```
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 <div align="center">
-Languages & Technologies
+ <br>
 <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,vscode&theme=dark" />
+<br>
 
-Learning & Exploring
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
-
+<br>
 </div> <div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&line1=cpp%2CC%2B%2B%2C333%3Bhtml%2CHTML%2Ce34c26%3Bcss%2CCSS%2C1572b6%3Bgit%2CGit%2Cf14e32%3B&line2=github%2CGitHub%2C333%3Bvscode%2CVS+Code%2C007acc%3Blinux%2CLinux%2Cfcc624%3B" /> </div>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 <div align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunal-Rathore-5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Kunal-Rathore-5&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&fire=F8D866&currStreakLabel=F8D866"/> </div> <div align="center"> <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Rathore-5&theme=github_dark&hide_border=true"/> </div>
