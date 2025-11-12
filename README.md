@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=31&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+KUNAL+!!+%F0%9F%91%8B;Welcome+to+my+Profile!" alt="Typing SVG" />
 </p>
 
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20do%20not%20push%20the%20boundaries%2C%20you%20will%20never%20know%20where%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
