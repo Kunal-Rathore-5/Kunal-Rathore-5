@@ -47,3 +47,12 @@
 ⭐ Show some love by starring my repositories! ⭐
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore-5&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div>
+
+
+## 💭 Daily Quote
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=Nothing%20good%20ever%20comes%20of%20violence.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->

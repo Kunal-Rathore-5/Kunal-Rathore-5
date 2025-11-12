@@ -1,0 +1,20 @@
+{
+  "name": "kunal-rathore-profile",
+  "version": "1.0.0",
+  "description": "GitHub profile with daily inspirational quotes",
+  "main": "update-quote.js",
+  "scripts": {
+    "update-quote": "node update-quote.js",
+    "test": "node update-quote.js"
+  },
+  "keywords": [
+    "github-profile",
+    "quotes",
+    "readme"
+  ],
+  "author": "Kunal Rathore",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
