@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+KUNAL+!!+%F0%9F%91%8B;Welcome+to+my+Profile!;Let%27s+Build+Something+Amazing!" alt="Typing SVG" /> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore-5&color=blueviolet&style=flat-square&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/Kunal-Rathore-5?label=Followers&style=flat-square&color=blue"/> <img src="https://img.shields.io/badge/Focus-DSA%20%26%20MERN-orange?style=flat-square"/> </div>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&pause=500&color=A6FC65&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+KUNAL+!!+%F0%9F%91%8B;Welcome+to+my+Profile!;Let%27s+Build+Something+Amazing!" alt="Typing SVG" /> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Rathore-5&color=blueviolet&style=flat-square&label=Profile+Views"/></div>
 
 ----------
 
