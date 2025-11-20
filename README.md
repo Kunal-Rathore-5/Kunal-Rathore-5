@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 # 👋 Hey there! I'm Kunal Rathore
@@ -23,7 +24,6 @@ profile:
 interests:
   - Data Structures & Algorithms
   - MERN Stack Development
-  - Competitive Programming
   - Problem Solving
 
 current_focus:
@@ -39,17 +39,13 @@ fun_fact: "I debug with cout statements and I'm not ashamed! 😄"
 
 ## 💻 Tech Arsenal
 
-### 🎯 Core Technologies
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔥 MERN Stack
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🔥 Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-359c79?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-99ccde?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postgress](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-FCC624?style=for-the-badge&logo=fedora&logoColor=black) ![Kalilinux](https://img.shields.io/badge/Kali_OS-9EBCDE?style=for-the-badge&logo=kalilinux&logoColor=black)
 
 ----------
 
@@ -82,10 +78,9 @@ fun_fact: "I debug with cout statements and I'm not ashamed! 😄"
 ## 💡 What I'm Up To
 
 -   🔭 Currently working on **Data Structures & Algorithms** and **MERN Stack Projects**
--   🌱 Learning advanced **System Design** and **Competitive Programming**
--   👯 Looking to collaborate on **Open Source Projects** and **Web Development**
+-   🧭 Looking to collaborate on **Open Source Projects** and **Web Development**
 -   💬 Ask me about **C++**, **Data Structures**, **MERN Stack**, or **Problem Solving**
--   📫 Reach me at: **kunalrathore@example.com** (update with your email)
+-   📫 Reach me at: **kunalworkspace111@gmail.com** (update with your email)
 
 ----------
 
@@ -93,7 +88,7 @@ fun_fact: "I debug with cout statements and I'm not ashamed! 😄"
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-kunalx1.is--a.dev-FF5722?style=for-the-badge)](https://kunalx1.is-a.dev/) [![GitHub](https://img.shields.io/badge/GitHub-kunal--rathore--111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-rathore-111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-rathore) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalrathore@example.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-kunalx1.is--a.dev-FF5722?style=for-the-badge)](https://kunalx1.is-a.dev/) [![GitHub](https://img.shields.io/badge/GitHub-kunal--rathore--111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-rathore-111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-rathore) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalworkspace111@gmail.com)
 
 </div>
 
